@@ -1,6 +1,6 @@
 # Jogo da Velha
 
-Este é um simples jogo da velha (tic-tac-toe) implementado em HTML, CSS e JavaScript. É um jogo para dois jogadores, onde eles podem alternar entre 'X' e 'O' para fazer suas jogadas.
+Este é um simples jogo da velha (feito no primeiro semestre da faculdade) implementado em HTML, CSS e JavaScript. É um jogo para dois jogadores, onde eles podem alternar entre 'X' e 'O' para fazer suas jogadas.
 
 ![Screenshot do Jogo da Velha](screenshot.png)
 
