@@ -26,10 +26,6 @@ Você pode personalizar a aparência do jogo alterando o arquivo `style.css`. Si
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests) para melhorar este jogo.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para obter detalhes.
-
 ---
 
 Divirta-se jogando o Jogo da Velha!
